@@ -56,11 +56,11 @@ Our workflow follows a clear and reproducible pipeline, with details documented 
 We evaluated models on a held-out test set using standard regression metrics.
 
 ### **Baseline Model: Linear Regression**
-- R² Score: **55%**
+- $R^2$ Score: **55%**
 - Mean Absolute Error (MAE): **±1.05 days**
 
 ### **Final Model: Random Forest**
-- R² Score: **90%**
+- $R^2$ Score: **90%**
 - Mean Absolute Error (MAE): **±0.29 days**
 
 **Margin of Error Interpretation:**  
