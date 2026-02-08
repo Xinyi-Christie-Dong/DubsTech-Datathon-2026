@@ -15,7 +15,7 @@ Better Forecasting: Multi-year data improves model accuracy by capturing seasona
 
 ## **Deliverables**
 - **Interactive Dashboard (Web):**  
-  https://datathon-2026-gamma.vercel.app/#/dashboard
+  [https://datathon-2026-gamma.vercel.app/#/dashboard](https://datathon-2026-gamma.vercel.app/#/report)
 
 ## **Project Overview**
 Air pollution poses a major public health risk in the United States, driven by factors such as industrial emissions, transportation density, wildfire activity, and climate change. Using Air Quality Index (AQI) data from 2020 to 2025, this project analyzes spatial patterns in unhealthy air quality and builds a predictive model to support early intervention and resource planning.
